@@ -1,0 +1,6 @@
+---
+# vars file for ec2_hosts
+
+key_dest: "/root/.ssh/key.pem"
+region: "ap-south-1"
+image_id: "ami-09a7bbd08886aafdf"
